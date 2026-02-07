@@ -1,6 +1,6 @@
 # QA / Software Testing Portfolio
-🧪 QA / Software Testing Portfolio
-👋 About Me
+
+# About Me
 
 I am a Quality Assurance professional with hands-on experience in Manual Testing, API Testing, and Agile processes. I focus on delivering high-quality, reliable software through structured testing and clear defect reporting.
 
